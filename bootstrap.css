@@ -1,5 +1,6 @@
-body{background-image: url("Goolge.JPG");}
-.jam{ text-align: center; 
+body {
+    background-image: url("Google.jpg");
+}.jam{ text-align: center; 
   color: crimson;
    font-size: bold; 
  font-family:"Lucida Console";
@@ -9,5 +10,11 @@ body{background-image: url("Goolge.JPG");}
     margin-right: auto;}
 
 .display-4{ margin-top: 5px }
+
+.btn-primary.btn-lg{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;}
+
 
 .btn-primary.btn-lg:hover{color: black; transform: scale(1.4);}
