@@ -1,6 +1,8 @@
 body {
     background-image: url("Google.jpg");
-}.jam{ text-align: center; 
+ background-size: cover;}
+
+.jam{ text-align: center; 
   color: crimson;
    font-size: bold; 
  font-family:"Lucida Console";
